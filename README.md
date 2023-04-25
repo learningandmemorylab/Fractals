@@ -1,3 +1,3 @@
 # Fractals
 
-Code and data to follow shortly.
+Visualizers can be found under visualizers.
